@@ -1,0 +1,10 @@
+body {
+  background: -webkit-linear-gradient(-45deg, rgb(62, 232, 223),rgb(11, 26, 160));
+}
+
+ p, button, #email, #name, #m, #n {
+  text-align: center;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
